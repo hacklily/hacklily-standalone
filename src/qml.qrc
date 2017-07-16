@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>main.cpp</file>
+        <file>Placeholder.qml</file>
+        <file>HacklilyMenuBar.qml</file>
+        <file>ProgressView.qml</file>
+        <file>TreeViewWithDefaultSelection.qml</file>
+        <file>../hacklily.png</file>
+    </qresource>
+</RCC>
